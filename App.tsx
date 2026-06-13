@@ -44,7 +44,7 @@ import {
   Star
 } from "lucide-react";
 import { SKILLS, PROJECTS, EXPERIENCES, CERTIFICATIONS, Project, Skill } from "./data";
-import avatarImg from "./assets/images/1770487580574.png";
+import avatarImg from "./veera_avatar_1781281822017.jpg";
 
 export default function App() {
   // Mobile Nav Drawer Toggle
